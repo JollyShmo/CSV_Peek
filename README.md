@@ -1,4 +1,4 @@
-# CSV_Peeker
+# CSV_Peek
 [![CSV Peeker](banner.png)](https://github.com/JollyShmo/CSV_Peeker/archive/refs/heads/main.zip)
 👈*Download Here*
 
