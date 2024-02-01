@@ -8,3 +8,5 @@ Peek inside csv files from `RenderDoc` to see the 3d mesh. Export it as three fi
 - [command line] from the location of the script `python CSV_Peek-main.py`
 - [load csv file and select the x y z settings]
 - (optional) select export to save it as all three file types `.obj` `.ply` and `.stl`
+
+![Peek Main](peek_v1_saved.png)
